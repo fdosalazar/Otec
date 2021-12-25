@@ -1,0 +1,6 @@
+C:\Users\fsalazar\Desktop\empleados\EmpleadosLibrary\obj\Debug\OtecLibrary.csprojAssemblyReference.cache
+C:\Users\fsalazar\Desktop\empleados\EmpleadosLibrary\obj\Debug\OtecLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fsalazar\Desktop\empleados\EmpleadosLibrary\bin\Debug\OtecLibrary.dll
+C:\Users\fsalazar\Desktop\empleados\EmpleadosLibrary\bin\Debug\OtecLibrary.pdb
+C:\Users\fsalazar\Desktop\empleados\EmpleadosLibrary\obj\Debug\OtecLibrary.dll
+C:\Users\fsalazar\Desktop\empleados\EmpleadosLibrary\obj\Debug\OtecLibrary.pdb
